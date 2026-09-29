@@ -127,6 +127,8 @@ Data-Analyzer/
 ├── main.py
 └── README.md
 ```
+## Output
+![Program Output](output.png)
 
 ## Author
 
