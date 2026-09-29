@@ -19,6 +19,8 @@ A simple Python program for entering, analyzing, filtering, sorting, and calcula
 * Python 3.x
 * Git
 * GitHub
+* VS code
+  
 
 No external libraries are required.
 
