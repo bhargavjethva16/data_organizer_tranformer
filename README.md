@@ -124,7 +124,7 @@ Data Summary:
 ## Project Structure
 
 ```text
-Data-Analyzer/
+
 │── output.png
 ├── main.py
 └── README.md
